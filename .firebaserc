@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "exampleblog-538df",
+    "staging": "exampleblog-538df",
+    "exampleblog": "exampleblog-538df"
+  }
+}
